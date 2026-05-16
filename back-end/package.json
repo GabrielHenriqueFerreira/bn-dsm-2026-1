@@ -7,6 +7,7 @@
     "start": "node ./src/bin/server.js"
   },
   "dependencies": {
+    "@prisma/adapter-pg": "^7.8.0",
     "@prisma/client": "6.19",
     "chalk": "^5.6.2",
     "cookie-parser": "^1.4.7",
